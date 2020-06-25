@@ -15,4 +15,4 @@ listaCognomi.sort();
 
 console.log(listaCognomi);
 
-console.log(listaCognomi.indexOf(cognomeUtente));
+console.log(listaCognomi.indexOf(cognomeUtente)+1);
